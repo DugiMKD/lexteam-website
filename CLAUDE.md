@@ -9,7 +9,7 @@ Owner: Ivan Breshkovski. Talk to him in **Macedonian**, plainly. He is a lawyer,
 2. Edit files in `site/` directly (the old Node generator is retired; its output is what lives here).
 3. Check the changed pages in a browser in all three languages (`?lang=mk|en|sq`) and at phone width (no horizontal scroll).
 4. Show Ivan what changes; publish only after he says **„објави“**.
-5. Commit and push to `main`. Publishing: if Netlify is linked to this repository it deploys automatically; otherwise deploy the `site/` folder with the Netlify CLI or API.
+5. Commit and push to `main`. **Netlify is linked to this repository (since 24.11.2026): every push to `main` publishes the site automatically.** Do not deploy with the Netlify CLI, drag and drop or the API any more; a manual deploy bypasses the repository and the next push overwrites it. For a preview before „објави“, push to another branch (Netlify builds a branch/deploy preview) or show local screenshots.
 6. Write a line in the changelog of the Drive guide.
 
 When you change `site/css/styles.css` or `site/js/i18n.js`, update the `?v=` version in every HTML file that links them (CSS and JS are cached for 7 days).
