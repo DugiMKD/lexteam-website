@@ -1,0 +1,81 @@
+# LexTeam
+
+> LexTeam (ЛексТим) is a team of attorneys in Skopje, North Macedonia. It provides legal services to companies and individuals in Macedonian, English and Albanian.
+
+- Address: Bul. Ilinden 5/27, 1000 Skopje, North Macedonia
+- Phone: +389 75 851 918
+- Email: info@lexteam.mk
+- Map: https://www.google.com/maps/search/?api=1&query=41.9990512,21.4280147
+- Social: Facebook https://www.facebook.com/breshkovski.mk, LinkedIn https://www.linkedin.com/in/ivan-breshkovski/, YouTube https://www.youtube.com/@breshkovski.law.macedonia
+- Website: https://lexteam.mk/
+- Languages: Macedonian (mk), English (en), Albanian (sq). Every page can be viewed in any of the three with ?lang=mk|en|sq.
+
+## Attorneys
+- Ivan Breshkovski (Иван Брешковски): attorney
+- Neda Chalovska Dimovska (Неда Чаловска Димовска): attorney
+- Ivica Maksimoski (Ивица Максимоски): attorney
+
+## Practice areas
+- [Civil litigation / Парнични постапки](https://lexteam.mk/oblasti/parnichni-postapki.html): Representation in civil disputes: statements of claim and defence, hearings, mediation, appeals, revision and reopening of proceedings.
+- [Administrative procedures / Управни постапки](https://lexteam.mk/oblasti/upravni-postapki.html): Representation before ministries, agencies, cadastre and municipalities, appeals, administrative disputes, permits, public procurement and misdemeanours.
+- [Commercial law / Трговско право](https://lexteam.mk/oblasti/trgovsko-pravo.html): Company formation, Central Register changes, mergers and divisions, commercial disputes, liquidation, bankruptcy and industrial property.
+- [Employment law / Работни односи](https://lexteam.mk/oblasti/rabotni-odnosi.html): Employment contracts, internal rules, dismissals and disciplinary procedures, health and safety, work permits for foreign nationals and labour disputes.
+- [Enforcement proceedings / Постапки за извршување](https://lexteam.mk/oblasti/izvrshuvanje.html): Representation of creditors and debtors in enforcement proceedings: enforcement requests, objections, counter-enforcement and legal advice.
+- [Family and inheritance law / Семејно и наследно право](https://lexteam.mk/oblasti/semejno-i-nasledno-pravo.html): Divorce, division of property, custody and maintenance, paternity and maternity, legal capacity, probate, wills and lifelong maintenance contracts.
+- [Criminal law / Кривично право](https://lexteam.mk/oblasti/krivichno-pravo.html): Defence of suspects and defendants, representation of injured parties, criminal complaints, appeals, plea agreements and misdemeanour proceedings.
+- [Property and construction law / Имотно и градежно право](https://lexteam.mk/oblasti/imotno-pravo.html): Sale, gift and exchange of real estate, co-investment and construction contracts, building permits, cadastre registration and denationalisation.
+- [Contracts / Договори](https://lexteam.mk/oblasti/dogovori.html): Drafting, review and negotiation of contracts: sale, lease, loan, services, construction, co-investment, employment and SLAs.
+- [Insurance / Осигурување](https://lexteam.mk/oblasti/osiguruvanje.html): Advice on insurance contracts, damage claims against insurers, out-of-court settlement, court proceedings and recourse claims.
+- [Human rights and media law / Човекови права и медиумско право](https://lexteam.mk/oblasti/chovekovi-prava-i-mediumsko-pravo.html): Applications to the European Court of Human Rights and UN bodies, anti-discrimination, property rights, trial within a reasonable time and free expression.
+- [Foreigners and residence permits / Странци и дозволи за престој](https://lexteam.mk/oblasti/stranci-i-prestoj.html): Legal assistance for foreign nationals in obtaining and extending temporary residence permits for study, marriage or family reunification.
+- [Other legal services / Останати правни услуги](https://lexteam.mk/oblasti/ostanati-pravni-uslugi.html): Oral and written legal advice, legal opinions and analyses, drafting of legal documents, mediation and arbitration, and personal data protection (GDPR).
+
+## Legal guides (blog)
+- [Divorce in North Macedonia: the basics](https://lexteam.mk/blog/razvod-na-brak-osnovni-informacii.html) (mk, en, sq, 2026-11-23)
+- [Residence permit for foreign nationals in North Macedonia: posted worker](https://lexteam.mk/blog/dozvola-za-prestoj-na-stranec-vo-rs-makedonija-upaten-rabotnik.html) (mk, en, sq, 2026-11-16)
+- [Residence permit for foreign nationals in North Macedonia: employment](https://lexteam.mk/blog/dozvola-za-prestoj-na-stranec-vo-rs-makedonija-vrabotuvanje.html) (mk, en, sq, 2026-11-16)
+- [Starting a company in North Macedonia: a step-by-step guide](https://lexteam.mk/blog/osnovanje-firma-vo-severna-makedonija.html) (mk, en, sq, 2026-11-16)
+- [Residence permit for foreign nationals in North Macedonia: marriage](https://lexteam.mk/blog/dozvola-za-prestoj-na-stranecz-vo-rs-makedonija-brak.html) (mk, en, sq, 2026-03-23)
+- [Residence permit for foreign nationals in North Macedonia: family reunification](https://lexteam.mk/blog/dozvola-za-prestoj-na-stranecz-vo-rs-makedonija-semejno-obedinuvanje.html) (mk, en, sq, 2026-03-23)
+- [Residence permit for foreign nationals in North Macedonia: study](https://lexteam.mk/blog/dozvola-za-prestoj-na-stranec-vo-rs-makedonija-upatstva.html) (mk, en, sq, 2026-03-22)
+
+## Publications (authored or co-authored by the team)
+- [Водич за новинар(к)и за стратешки тужби против јавното учество (SLAPP)](https://lexteam.mk/publikacii/vodich-za-novinari-za-strateshki-tuzhbi-protiv-javnoto-uchestvo-slapp.html): Council of Europe, 2026. Authors: Ivan Breshkovski, Mladen Chadikovski, Laze Sandev
+- [Прирачник за безбедност на новинари](https://lexteam.mk/publikacii/prirachnik-za-bezbednost-na-novinari.html): AJM: Association of Journalists of Macedonia, 2024. Authors: Ivan Breshkovski, Toni Angelovski, Biljana Arsovska
+- [Напади врз новинарите и медиумските работници 2017-2021 година: тенденции и препораки](https://lexteam.mk/publikacii/napadi-vrz-novinarite-i-mediumskite-rabotnici-2017-2021.html): AJM: Association of Journalists of Macedonia, 2022. Authors: Deniz Sulejman, Ivan Breshkovski
+- [Род и различност во судството: Северна Македонија](https://lexteam.mk/publikacii/gender-and-diversity-in-the-judiciary-north-macedonia.html): OSCE Mission to Skopje, 2021. Authors: Kosana Beker, Neda Chalovska Dimovska
+- [Индекс на безбедноста на новинарите на Западен Балкан: наративен извештај за Република Северна Македонија 2020](https://lexteam.mk/publikacii/indeks-na-bezbednosta-na-novinarite-na-zapaden-balkan.html): AJM: Association of Journalists of Macedonia, 2021. Authors: Milan Spirovski, Ivan Breshkovski, Marina Tuneva
+- [Подобрување на безбедноста на новинарите преку измена на Кривичниот законик: анализа на меѓународни стандарди и домашна регулатива](https://lexteam.mk/publikacii/improving-the-safety-of-journalists-through-amending-the-penal-code-analyzing.html): Konrad Adenauer Stiftung North Macedonia, 2020. Authors: Kostadin Bogdanov, Ivan Breshkovski, Dragan Sekulovski
+- [Прирачник за безбедност на новинарите при известување за настани од висок ризик](https://lexteam.mk/publikacii/guidebook-on-safety-of-journalists-while-reporting-during-critical-events.html): OSCE Mission to Skopje, 2018. Authors: Ivan Breshkovski, Spasenka Andonova, Toni Angelovski
+- [Влијанието на законот за авторското право и сродните права врз работата на новинарите, фоторепортерите и медиумските работници](https://lexteam.mk/publikacii/the-effect-of-copyright-law-and-other-related-rights-in-the-work-of-journalists.html): Konrad Adenauer Stiftung North Macedonia, 2018. Authors: Ivan Breshkovski, Igor Markovski
+- [Слободата на интернет во Македонија: извештај за 2017 година](https://lexteam.mk/publikacii/slobodata-na-internet-vo-makedonija-izveshtaj-za-2017.html): Metamorphosis Foundation, 2018. Authors: Dejan Georgievski, Ivan Breshkovski, Zharko Trajanoski, Ana Pepeljugoska, Valentin Pepeljugoski, Sanja Bozhovikj, Danche Danilovska, Elena Trifunovska, Aleksandar Nikolov, Dushko Todoroski, Vesna Radinovska
+
+## In the media (statements and interviews by attorney Ivan Breshkovski)
+- [СЛАП тужбите – закана за демократијата, одговорот е знаење и солидарност](https://lexteam.mk/mediumi/slap-tuzhbite-zakana-za-demokratijata-odgovorot-e-znaenje-i-solidarnost.html): ЗНМ: Здружение на новинари на Македонија, 2025-08-22. Original: https://znm.org.mk/слап-тужбите-закана-за-демократијат/
+- [Говор на омраза](https://lexteam.mk/mediumi/govor-na-omraza.html): МРТ, 2023-09-09. Original: https://mrt.com.mk/node/96485
+- [Адвокат Иван Брешковски: Законските измени треба да ги заштитат новинарите и новинарките, безбедно да си ја вршат својата професија](https://lexteam.mk/mediumi/advokat-ivan-breshkovski-zakonskite-izmeni-treba-da-gi-zashtitat-novinarite-i.html): ПРИКАЗна, 2023-05-03. Original: https://prikazna.mk/адвокат-иван-брешковски-законските-и/
+- [Брешковски: Според индексот на слобода на говор Македонија е во групата со развиените европски држави](https://lexteam.mk/mediumi/breshkovski-spored-indeksot-na-sloboda-na-govor.html): Слободен Печат ТВ, 2023-03-14, video. Original: https://www.youtube.com/watch?v=kaQWefGBJrY
+- [„Опасна мрежа“: документарец на ПИНА за онлајн вознемирувањето врз новинарките](https://lexteam.mk/mediumi/opasna-mrezha-dokumentarec-na-pina.html): ПИНА, 2022-10-05, video. Original: https://www.youtube.com/watch?v=aJwFcbq8moY
+- [Новинарите мета на неосновани тужби](https://lexteam.mk/mediumi/novinarite-se-gonat-so-prazni-tuzhbi.html): СКУП, 2022-08-04, video. Original: https://scoop.mk/%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0%D1%80%D0%B8%D1%82%D0%B5-%D1%81%D0%B5-%D0%B3%D0%BE%D0%BD%D0%B0%D1%82-%D1%81%D0%BE-%D0%BF%D1%80%D0%B0%D0%B7%D0%BD%D0%B8-%D1%82%D1%83%D0%B6%D0%B1%D0%B8/
+- [(ВИДЕО) Измина законскиот рок, а Арсовска не го тужеше СДСМ за наводите за бугарско државјанство](https://lexteam.mk/mediumi/video-izmina-zakonskiot-rok-a-arsovska-ne-go-tuzheshe-sdsm-za-navodite-za.html): 360 степени, 2022-02-08. Original: https://360stepeni.mk/video-izmina-zakonskiot-rok-a-arsovska-ne-go-tuzheshe-sdsm-za-navodite-za-bugarsko-drzhavjanstvo/
+- [Судот ја одби тужбата за клевета на Горјан Тозија против МКД.мк и новинарот Александар Дамовски](https://lexteam.mk/mediumi/sudot-ja-odbi-tuzhbata-za-kleveta-na-gorjan-tozija-protiv-mkd-mk-i-novinarot.html): Фактор, 2021-12-11. Original: https://faktor.mk/sudot-ja-odbi-tuzbata-za-kleveta-na-gorjan-tozija-protiv-mkdmk-i-novinarot-aleksandar-damovski
+- [Како да се остане безбеден при покривање протести – Thomson Media](https://lexteam.mk/mediumi/kako-da-se-ostane-bezbeden-pri-pokrivanje-protesti-thomson-media.html): ЗНМ: Здружение на новинари на Македонија, 2021-06-02. Original: https://znm.org.mk/како-да-се-остане-безбеден-при-покрива/
+- [Министерството за правда, со измени и дополнувања на Кривичниот законик, предвидува затвор до три години за напаѓачите на новинари и медиумски работници](https://lexteam.mk/mediumi/ministerstvoto-za-pravda-so-izmeni-i-dopolnuvanja-na-krivichniot-zakonik.html): Алсат ТВ, 2021-05-02
+- [Онлајн обука за „заштита на новинари/ки“ во соработка со Советот на Европа](https://lexteam.mk/mediumi/onlajn-obuka-za-zashtita-na-novinari-ki-vo-sorabotka-so-sovet-na-evropa.html): Адвокатска комора на РСМ, 2021-03-09. Original: https://mba.org.mk/index.php/mk/arhiva-na-informacii/item/756-onlajn-obuka-za-zashtita-na-novinari-ki-vo-sorabotka-so-sovet-na-evropa
+- [ЗНМ: Итно е потребна системска заштита на медиумските работници](https://lexteam.mk/mediumi/znm-itno-e-potrebna-sistemska-zashtita-na-mediumskite-rabotnici.html): МКД.мк, 2021-02-12
+- [ЗНМ со анализа на меѓународните стандарди и домашната регулатива за заштита на новинарите во Кривичниот законик](https://lexteam.mk/mediumi/znm-so-analiza-na-megjunarodnite-standardi-i-domashnata-regulativa-za-zashtita.html): Опсерваторија за медиумски реформи, 2020-12-16
+- [Nekažnjavanje napada na novinare posljedica političkih veza napadača](https://lexteam.mk/mediumi/nekaznjavanje-napada-na-novinare-posljedica-politickih-veza-napadaca.html): Avaz.ba, 2019-11-02. Original: https://avaz.ba/vijesti/bih/526781/nekaznjavanje-napada-na-novinare-posljedica-politickih-veza-napadaca
+- [Министерот Спасовски промовираше прирачник за безбедност на новинарите (ВИДЕО)](https://lexteam.mk/mediumi/ministerot-spasovski-promovirashe-prirachnik-za-bezbednost-na-novinarite-video.html): Pressing TV, 2018-11-02. Original: https://pressingtv.mk/makedonija/minsterot-spasovski-promovirashe-prirachnik-za-bezbednost-na-novinarite-video/
+- [Со заштита на авторските права против „копи-пејст“ новинарство](https://lexteam.mk/mediumi/so-zashtita-na-avtorskite-prava-protiv-kopi-pejst-novinarstvo.html): Радио МОФ, 2018-10-15. Original: https://www.radiomof.mk/so-zashtita-na-avtorskite-prava-protiv-kopi-pejs-novinarstvo/
+- [Judges do not recognize media portals in cases of defamation and insult](https://lexteam.mk/mediumi/judges-do-not-recognize-media-portals-in-cases-of-defamation-and-insult.html): Meta.mk, 2018-01-30. Original: https://meta.mk/en/judges-do-not-allow-media-portals-in-cases-of-defamation-and-insult/
+- [Судии не ги признаваат порталите за медиуми во случаите за клевета и навреда](https://lexteam.mk/mediumi/sudii-ne-gi-priznavaat-portalite-za-mediumi-vo-sluchaite-za-kleveta-i-navreda.html): ПИНА, 2018-01-30. Original: https://pina.mk/2547-sudii-ne-gi-priznavaat-portalite-za-mediumi-vo-sluchaite-za-kleveta-i-navreda/
+- [E-Society.mk: The media reforms must be implemented professionally and through dialogue](https://lexteam.mk/mediumi/e-society-mk-the-media-reforms-must-be-implemented-professionally-and-through.html): Metamorphosis Foundation, 2017-11-22. Original: https://metamorphosis.org.mk/en/e-society/e-society-mk-the-media-reforms-must-be-implemented-professionally-and-through-dialogue/
+
+## About and legal
+- [About LexTeam](https://lexteam.mk/za-nas.html)
+- [Privacy policy](https://lexteam.mk/politika-za-privatnost.html)
+- [Terms of use](https://lexteam.mk/uslovi-za-koristenje.html)
+
+## Notes
+- Content on this site is general information, not legal advice for a specific case.
+- To contact the team, use the form at https://lexteam.mk/#contact or the email above.

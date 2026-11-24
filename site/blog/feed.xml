@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>LexTeam Блог</title>
+  <link>https://lexteam.mk/blog/</link>
+  <atom:link href="https://lexteam.mk/blog/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Практични правни водичи од тимот на LexTeam: постапки, документи и рокови во Северна Македонија.</description>
+  <language>mk</language>
+  <item>
+    <title>Развод на брак: основни информации</title>
+    <link>https://lexteam.mk/blog/razvod-na-brak-osnovni-informacii.html</link>
+    <guid>https://lexteam.mk/blog/razvod-na-brak-osnovni-informacii.html</guid>
+    <pubDate>Mon, 23 Nov 2026 09:00:00 GMT</pubDate>
+    <description>Бракот може да се разведе со спогодба на брачните другари или по тужба на едниот од нив. Еве ги основните информации и разликата меѓу двата начини.</description>
+  </item>
+  <item>
+    <title>Дозвола за престој на странец во РС Македонија (упатен работник)</title>
+    <link>https://lexteam.mk/blog/dozvola-za-prestoj-na-stranec-vo-rs-makedonija-upaten-rabotnik.html</link>
+    <guid>https://lexteam.mk/blog/dozvola-za-prestoj-na-stranec-vo-rs-makedonija-upaten-rabotnik.html</guid>
+    <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
+    <description>Потребни документи за привремен престој на работник упатен од странски работодавач, при прво поднесување и при продолжување: барање, упис во Централен регистар, акт за упатување, осигурување, сместување и такси.</description>
+  </item>
+  <item>
+    <title>Дозвола за престој на странец во РС Македонија (вработување)</title>
+    <link>https://lexteam.mk/blog/dozvola-za-prestoj-na-stranec-vo-rs-makedonija-vrabotuvanje.html</link>
+    <guid>https://lexteam.mk/blog/dozvola-za-prestoj-na-stranec-vo-rs-makedonija-vrabotuvanje.html</guid>
+    <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
+    <description>Потребни документи за привремен престој по основ на вработување, при прво поднесување и при продолжување: барање, тековна состојба, договор за вработување, патна исправа, сместување и такси.</description>
+  </item>
+  <item>
+    <title>Основање фирма во Северна Македонија: водич чекор по чекор</title>
+    <link>https://lexteam.mk/blog/osnovanje-firma-vo-severna-makedonija.html</link>
+    <guid>https://lexteam.mk/blog/osnovanje-firma-vo-severna-makedonija.html</guid>
+    <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
+    <description>Како се основа ДОО или ДООЕЛ во Северна Македонија: кој може да биде основач, што треба да подготвите, кои документи се потребни, како тече регистрацијата и што следува по неа.</description>
+  </item>
+  <item>
+    <title>Дозвола за престој на странец во РС Македонија (брак)</title>
+    <link>https://lexteam.mk/blog/dozvola-za-prestoj-na-stranecz-vo-rs-makedonija-brak.html</link>
+    <guid>https://lexteam.mk/blog/dozvola-za-prestoj-na-stranecz-vo-rs-makedonija-brak.html</guid>
+    <pubDate>Mon, 23 Mar 2026 09:00:00 GMT</pubDate>
+    <description>Потребни документи за привремен престој по основ на брак со македонски државјанин, при прво поднесување и при продолжување: барање, венчаница, извод од родени, патна исправа, сместување и такси.</description>
+  </item>
+  <item>
+    <title>Дозвола за престој на странец во РС Македонија (семејно обединување)</title>
+    <link>https://lexteam.mk/blog/dozvola-za-prestoj-na-stranecz-vo-rs-makedonija-semejno-obedinuvanje.html</link>
+    <guid>https://lexteam.mk/blog/dozvola-za-prestoj-na-stranecz-vo-rs-makedonija-semejno-obedinuvanje.html</guid>
+    <pubDate>Mon, 23 Mar 2026 09:00:00 GMT</pubDate>
+    <description>Потребни документи за привремен престој по основ на семејно обединување, за странци што сакаат да го регулираат престојот на семејството во РС Македонија: прво поднесување, продолжување, место на поднесување и такси.</description>
+  </item>
+  <item>
+    <title>Дозвола за престој на странец во РС Македонија (студирање)</title>
+    <link>https://lexteam.mk/blog/dozvola-za-prestoj-na-stranec-vo-rs-makedonija-upatstva.html</link>
+    <guid>https://lexteam.mk/blog/dozvola-za-prestoj-na-stranec-vo-rs-makedonija-upatstva.html</guid>
+    <pubDate>Sun, 22 Mar 2026 09:00:00 GMT</pubDate>
+    <description>Потребни документи за привремен престој по основ на студирање, при прво поднесување и при продолжување: барање, потврда за редовен студент, патна исправа, сместување, здравствено осигурување, средства за егзистенција и такси.</description>
+  </item>
+</channel>
+</rss>

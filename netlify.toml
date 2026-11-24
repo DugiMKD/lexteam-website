@@ -1,0 +1,62 @@
+# Netlify: сајтот е во папката site/, нема build чекор.
+[build]
+  publish = "site"
+  command = ""
+
+[[headers]]
+for = "/*"
+
+  [headers.values]
+  X-Content-Type-Options = "nosniff"
+  Referrer-Policy = "strict-origin-when-cross-origin"
+  X-Frame-Options = "SAMEORIGIN"
+  Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+
+[[headers]]
+for = "/assets/*"
+
+  [headers.values]
+  Cache-Control = "public, max-age=2592000"
+
+[[headers]]
+for = "/css/*"
+
+  [headers.values]
+  Cache-Control = "public, max-age=604800"
+
+[[headers]]
+for = "/js/*"
+
+  [headers.values]
+  Cache-Control = "public, max-age=604800"
+
+[[headers]]
+for = "/blog/feed.xml"
+
+  [headers.values]
+  Content-Type = "application/rss+xml; charset=utf-8"
+
+[[headers]]
+for = "/llms.txt"
+
+  [headers.values]
+  Content-Type = "text/plain; charset=utf-8"
+
+[[redirects]]
+from = "https://www.lexteam.mk/*"
+to = "https://lexteam.mk/:splat"
+status = 301
+force = true
+
+
+
+
+[[redirects]]
+from = "http://www.lexteam.mk/*"
+to = "https://lexteam.mk/:splat"
+status = 301
+force = true
+
+
+
+  [redirects.headers]
