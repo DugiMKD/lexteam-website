@@ -1,6 +1,6 @@
 # LexTeam website (lexteam.mk)
 
-This repository is the **single source of truth** for lexteam.mk. The folder `site/` is exactly what is published. Netlify (project `splendorous-frangipane-c2dfe6`, team ivan-bres) serves `site/` as configured in `netlify.toml`.
+This repository is the **single source of truth** for lexteam.mk. **The repository is PUBLIC** (since 24.11.2026; Netlify's free plan builds private repos only for a single contributor): never commit passwords, API keys, form submissions or other private data. The folder `site/` is exactly what is published. Netlify (project `splendorous-frangipane-c2dfe6`, team ivan-bres) serves `site/` as configured in `netlify.toml`.
 
 Owner: Ivan Breshkovski. Talk to him in **Macedonian**, plainly. He is a lawyer, not a developer. The full working guide (both websites, history, open points) is `LEXTEAM-UPATSTVO-ZA-CLAUDE.md` on his Google Drive (account breshkovskylaw@gmail.com); read it before larger work.
 
