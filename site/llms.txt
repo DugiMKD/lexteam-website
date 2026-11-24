@@ -31,6 +31,7 @@
 - [Other legal services / Останати правни услуги](https://lexteam.mk/oblasti/ostanati-pravni-uslugi.html): Oral and written legal advice, legal opinions and analyses, drafting of legal documents, mediation and arbitration, and personal data protection (GDPR).
 
 ## Legal guides (blog)
+- [Insult and defamation in the Macedonian legal system](https://lexteam.mk/blog/navreda-i-kleveta-vo-makedonskiot-praven-sistem.html) (mk, en, sq, 2026-11-24)
 - [Divorce in North Macedonia: the basics](https://lexteam.mk/blog/razvod-na-brak-osnovni-informacii.html) (mk, en, sq, 2026-11-23)
 - [Residence permit for foreign nationals in North Macedonia: posted worker](https://lexteam.mk/blog/dozvola-za-prestoj-na-stranec-vo-rs-makedonija-upaten-rabotnik.html) (mk, en, sq, 2026-11-16)
 - [Residence permit for foreign nationals in North Macedonia: employment](https://lexteam.mk/blog/dozvola-za-prestoj-na-stranec-vo-rs-makedonija-vrabotuvanje.html) (mk, en, sq, 2026-11-16)
