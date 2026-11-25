@@ -265,6 +265,7 @@ button { font: inherit; cursor: pointer; }
 .footer { background: var(--ink); color: #9AA3B2; padding: 72px 0 40px; font-size: 14px; }
 .footer__grid { display: grid; grid-template-columns: 1.2fr 1.4fr 1fr; gap: 48px; padding-bottom: 48px; border-bottom: 1px solid #1F2737; }
 .footer__contact { font-style: normal; line-height: 1.9; margin-top: 24px; color: #C9CFDA; }
+.footer__who { color: #9AA3B2; }
 .footer a { color: #C9CFDA; text-decoration: none; }
 .footer a:hover { color: #fff; }
 .footer__label { font-size: 12px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; color: var(--accent-bright); margin: 0 0 14px; }
