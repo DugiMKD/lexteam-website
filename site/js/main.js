@@ -76,20 +76,37 @@
       el.hidden = el.getAttribute("data-post-lang") === lang;
     });
 
-    if (persist) {
-      store("lexteam-lang", lang);
-      var url = new URL(location.href);
-      url.searchParams.set("lang", lang);
-      history.replaceState(null, "", url);
-    }
+    if (persist) store("lexteam-lang", lang);
+  }
+
+  /* Each language has its own address: /page.html (mk), /en/page.html, /sq/page.html
+     (built by tools/build-lang.js). Switching language opens the same page in that language. */
+  var pathLang = (/^\/(en|sq)(\/|$)/.exec(location.pathname) || [])[1] || "mk";
+  var built = document.documentElement.hasAttribute("data-built");
+  function langUrl(lang) {
+    var rest = location.pathname.replace(/^\/(en|sq)(\/|$)/, "/");
+    var params = new URLSearchParams(location.search);
+    params.delete("lang");
+    var q = params.toString();
+    return (lang === "mk" ? "" : "/" + lang) + rest + (q ? "?" + q : "") + location.hash;
   }
 
   document.querySelectorAll(".lang button").forEach(function (b) {
-    b.addEventListener("click", function () { setLang(b.dataset.lang, true); });
+    b.addEventListener("click", function () {
+      if (b.dataset.lang === current) return;
+      if (built) { store("lexteam-lang", b.dataset.lang); location.href = langUrl(b.dataset.lang); }
+      else setLang(b.dataset.lang, true);
+    });
   });
 
   var fromUrl = new URLSearchParams(location.search).get("lang");
-  setLang(fromUrl || store("lexteam-lang") || "mk", false);
+  if (built) {
+    // old links with ?lang=xx go to the page in that language
+    if (fromUrl && LANGS.indexOf(fromUrl) !== -1 && fromUrl !== pathLang) { location.replace(langUrl(fromUrl)); return; }
+    setLang(pathLang, false);
+  } else {
+    setLang(fromUrl || store("lexteam-lang") || "mk", false);
+  }
 
   /* ---------- Mobile nav ---------- */
   var burger = document.getElementById("burger");

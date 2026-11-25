@@ -1,18 +1,18 @@
 # LexTeam website (lexteam.mk)
 
-This repository is the **single source of truth** for lexteam.mk. **The repository is PUBLIC** (since 24.11.2026; Netlify's free plan builds private repos only for a single contributor): never commit passwords, API keys, form submissions or other private data. The folder `site/` is exactly what is published. Netlify (project `splendorous-frangipane-c2dfe6`, team ivan-bres) serves `site/` as configured in `netlify.toml`.
+This repository is the **single source of truth** for lexteam.mk. **The repository is PUBLIC** (since 24.11.2026; Netlify's free plan builds private repos only for a single contributor): never commit passwords, API keys, form submissions or other private data. The folder `site/` is the **source**: every page holds all three languages. On every deploy Netlify runs `node tools/build-lang.js`, which writes `dist/` (not in git) with one static page per language: `/page.html` (mk), `/en/page.html`, `/sq/page.html`, each with its own `<html lang>`, title, canonical, hreflang and sitemap entries (since 25.11.2026). Pages whose text exists only in Macedonian (most of `mediumi/`, `publikacii/`) get `noindex` in en/sq; an article written only in English is indexed at `/en/`. Netlify (project `splendorous-frangipane-c2dfe6`, team ivan-bres) publishes `dist/` as configured in `netlify.toml`.
 
 Owner: Ivan Breshkovski. Talk to him in **Macedonian**, plainly. He is a lawyer, not a developer. The full working guide (both websites, history, open points) is `LEXTEAM-UPATSTVO-ZA-CLAUDE.md` on his Google Drive (account breshkovskylaw@gmail.com); read it before larger work.
 
 ## Workflow (both the office computer and cloud sessions)
 1. `git pull` first. Never start from a local copy, a zip, or the old folder `C:\Users\ivanb\Downloads\web page ivan\Ivan Website\`: publishing from an old copy erased changes on 23.11.2026.
 2. Edit files in `site/` directly (the old Node generator is retired; its output is what lives here).
-3. Check the changed pages in a browser in all three languages (`?lang=mk|en|sq`) and at phone width (no horizontal scroll).
+3. Run `node tools/build-lang.js`, serve `dist/` (`python3 -m http.server -d dist 8765`) and check the changed pages in all three languages (`/`, `/en/`, `/sq/`) and at phone width (no horizontal scroll). Never edit `dist/`; edit `site/`.
 4. Show Ivan what changes; publish only after he says **„објави“**.
 5. Commit and push to `main`. **Netlify is linked to this repository (since 24.11.2026): every push to `main` publishes the site automatically.** Do not deploy with the Netlify CLI, drag and drop or the API any more; a manual deploy bypasses the repository and the next push overwrites it. For a preview before „објави“, push to another branch (Netlify builds a branch/deploy preview) or show local screenshots.
 6. Write a line in the changelog of the Drive guide.
 
-When you change `site/css/styles.css` or `site/js/i18n.js`, update the `?v=` version in every HTML file that links them (CSS and JS are cached for 7 days).
+When you change `site/css/styles.css`, `site/js/main.js` or `site/js/i18n.js`, update the `?v=` version in every HTML file that links them (CSS and JS are cached for 7 days).
 
 ## Hard rules
 1. **No em dashes (U+2014)** anywhere in the site.

@@ -1,7 +1,9 @@
-# Netlify: сајтот е во папката site/, нема build чекор.
+# Netlify: изворот е во site/ (трите јазици заедно). При секое објавување
+# tools/build-lang.js прави посебни страници по јазик во dist/:
+#   /страница.html (mk), /en/страница.html, /sq/страница.html
 [build]
-  publish = "site"
-  command = ""
+  publish = "dist"
+  command = "node tools/build-lang.js"
 
 [[headers]]
 for = "/*"
@@ -60,3 +62,16 @@ force = true
 
 
   [redirects.headers]
+
+# Стари адреси со ?lang=en / ?lang=sq / ?lang=mk: на страницата на тој јазик.
+[[redirects]]
+from = "/*"
+to = "/en/:splat"
+status = 301
+query = {lang = "en"}
+
+[[redirects]]
+from = "/*"
+to = "/sq/:splat"
+status = 301
+query = {lang = "sq"}
