@@ -63,15 +63,4 @@ force = true
 
   [redirects.headers]
 
-# Стари адреси со ?lang=en / ?lang=sq / ?lang=mk: на страницата на тој јазик.
-[[redirects]]
-from = "/*"
-to = "/en/:splat"
-status = 301
-query = {lang = "en"}
-
-[[redirects]]
-from = "/*"
-to = "/sq/:splat"
-status = 301
-query = {lang = "sq"}
+# Стари адреси со ?lang=en / ?lang=sq ги пренасочува js/main.js на /en/ или /sq/.
